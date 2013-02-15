@@ -1,0 +1,5 @@
+document.write('<scri'+'pt src="js/toaster/lib/gui.js"></scr'+'ipt>')
+document.write('<scri'+'pt src="js/toaster/lib/localstorage.js"></scr'+'ipt>')
+document.write('<scri'+'pt src="js/toaster/lib/glue.js"></scr'+'ipt>')
+document.write('<scri'+'pt src="js/toaster/lib/usecase.js"></scr'+'ipt>')
+document.write('<scri'+'pt src="js/toaster/sa/sa.js"></scr'+'ipt>')
